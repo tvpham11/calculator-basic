@@ -1,0 +1,23 @@
+body {
+  background-color: navy;
+  font-family: Sans-Serif;
+  position: absolute;
+  top: 30%;
+  right: 25%;
+  bottom: 30%;
+  left: 25%;
+  margin: auto;
+  text-align: center;
+  border: 2px dotted grey;
+  border-radius: 5px;
+  padding: 10px;
+  top: 100px;
+}
+
+h3 {
+  color: white;
+}
+
+.answer {
+  color: white;
+}
