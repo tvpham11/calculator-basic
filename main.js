@@ -1,7 +1,7 @@
 var numOne = document.getElementById("num_one");
 var numTwo = document.getElementById("num_two");
 var submit = document.getElementById("calculateBtn");
-var answer = document.getElementById("answer");
+// var answer = document.getElementById("answer");
 
 function add() {
   var numberOne = Number(numOne.value);
